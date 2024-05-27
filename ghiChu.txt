@@ -1,0 +1,11 @@
+
+Bai07: chuong trinh bac 1
+Bai08: chuong trinh bac 2
+Bai09: chuong tinh tinh tien dien
+Bai10: chua chon tinh nang (giai pt bac 1 , 2)
+Bai11: sap xep mang
+{
+ // sung dung import java.util.Arrays;
+// xuat mang : Arrays.toString(mang);
+}
+Bai12: chuong trinh xuat ra so nguyen to
